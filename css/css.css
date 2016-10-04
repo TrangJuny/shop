@@ -1,0 +1,109 @@
+/*font*/
+@font-face {
+    font-family: OpenSans-Light;
+    src: url(../fonts/OpenSans-Light.ttf);
+}
+@font-face {
+    font-family:OpenSans-Regular;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family:OpenSans-Semibold;
+    src: url(../fonts/OpenSans-Semibold.ttf);
+}
+@font-face {
+    font-family:OpenSans-ExtraBold;
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family:Arvo-Regular;
+    src: url(../fonts/Arvo/Arvo-Regular.ttf);
+}
+@font-face {
+    font-family:Cabin-Regular;
+    src: url(../fonts/Cabin/Cabin-Regular.ttf);
+}
+@font-face {
+    font-family:Raleway-Regular;
+    src: url(../fonts/Raleway/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family:IndieFlower;
+    src: url(../fonts/Indie_Flower/IndieFlower.ttf);
+}
+@font-face {
+    font-family:Architects_Daughter;
+    src: url(../fonts/Architects_Daughter/ArchitectsDaughter.ttf);
+}
+@font-face {
+    font-family:Gloria_Hallelujah;
+    src: url(../fonts/Gloria_Hallelujah/GloriaHallelujah.ttf);
+}
+@font-face {
+    font-family:NotoSans-Regular;
+    src: url(../fonts/Poiret_One/PoiretOne-Regular.ttf);
+}
+@font-face {
+    font-family:Shadows_Into_Light;
+    src: url(../fonts/Shadows_Into_Light/ShadowsIntoLight.ttf);
+}
+
+/*font-family: Raleway-Regular;*/
+/*font-family: Cabin-Regular;*/
+/*font-family: Arvo-Regular;*/
+/*font-family: OpenSans-Semibold;*/
+/*font-family: OpenSans-ExtraBold;*/
+/*font-family: OpenSans-Regular;*/
+/*font-family: OpenSans-Light;*/
+/*font-family: Architects_Daughter;*/
+/*font-family: Gloria_Hallelujah;*/
+/*font-family: Indie_Flower;*/
+/*font-family: Shadows_Into_Light;*/
+/*font-family: NotoSans-Regular;*/
+
+/*html*/
+html,body{
+    height: 100%;
+}
+body{
+    /*font-family: 'OpenSans-Light', arial;*/
+    color: #4e525d;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h4 {
+    font-size: 20px;
+}
+ul li{
+    list-style: none;
+}
+
+/*-------------------------------------------
+----------------------------------------------
+------------------mix------------------------------
+-----------------------------------------------------
+---------------------------------------*/
+
+
+#mixItUp div.mix{
+    display: none;
+}
+/*--------------code---------------*/
+
+
+
+
+
+
+
+/*-------------------------------------------
+----------------------------------------------
+------------------ HEADER ------------------------------
+-----------------------------------------------------
+---------------------------------------*/
+
+
+
+
